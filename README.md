@@ -16,7 +16,7 @@ OpenCV `dnn` module supports running inference on pre-trained deep learning mode
  
  As of now this prototype can detect any of the food items among popular fruits(orange, apple, banana), vegetables (carrot, broccoli), fast food(pizza, sandwich) and sweets(cake, donut). With further development this can be upscaled to detect thousands of different kinds of food. Further this displays the result about user's calorie guidance too.
  
- `code.jpg`
+ ![](code.jpg)
  
  ### sample output :
  ![](object-detection.jpg)
